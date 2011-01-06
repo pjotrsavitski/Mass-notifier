@@ -1,1 +1,14 @@
 Mass notifier plugin for Elgg
+
+== REQUIREMENTS ==
+Required version of Elgg is 1.7.6 (http://elgg.org/download.php)
+
+== INSTALLATION ==
+  * Place into mod/ catalog of Elgg instance (<ELGG_ROOT>/mod/).
+  * Enable plugin.
+
+== DESCRIPTION ==
+Current version 0.1 of the plugin will send a message to all Elgg users regardless of their notification preferences.
+
+== NOTES ==
+  * Please note that translation files are full of comments regarding placement of translation in the plugin. In addition to that any translation line (elgg_echo() method) has a /*translation:DOMAIN:IDENTIFIER*/ before it. This is because of an automatic translations_picker script is being used for that purpose.

@@ -1,0 +1,4 @@
+# Ignore _backup files for translations
+/languages/*_backup.php
+# Ignore translator script
+/translator

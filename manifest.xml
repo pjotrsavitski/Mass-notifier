@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin_manifest>
 	<field key="author" value="Pjotr Savitski" />
-	<field key="version" value="0.0.1" />
+	<field key="version" value="0.1" />
 	<field key="description" value="Mass notifier for Elgg" />
 	<field key="website" value="https://github.com/pjotrsavitski/Mass-notifier" />
 	<field key="copyright" value="(C) Pjotr Savitski 2011" />
