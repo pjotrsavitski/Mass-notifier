@@ -1,7 +1,8 @@
 Mass notifier plugin for Elgg
 
 == REQUIREMENTS ==
-Required version of Elgg is 1.7.6 (http://elgg.org/download.php)
+  * Required version of Elgg is 1.7.6 (http://elgg.org/download.php)
+  * Plugin catalog name should be: massnotifier
 
 == INSTALLATION ==
   * Place into mod/ catalog of Elgg instance (<ELGG_ROOT>/mod/).
